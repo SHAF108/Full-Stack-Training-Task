@@ -1,0 +1,48 @@
+body{
+    background-color: wheat;
+}
+
+#heading{
+    color: #1da72c;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 44px;
+    background-color: black;
+    width: 25%;
+}
+
+.container {
+    width: 50%;
+    background-color: white;
+}
+
+.paragraph{
+    color: gray;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    width: 400px;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px !important;
+    font-weight: bold;
+    /* display: block; */
+}
+li{
+    display: inline;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: 0;
+    background-color: #1da72c;
+    color: white;
+    border-radius: 10px;
+}
