@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+
+#heading{
+    color: #1da72c;
+}
+dl{
+    background-color: #1da72c;
+    color: white;
+    font-size: 20px;
+}
+
+.place-title{
+    font-size: 30px;
+}
+
+.Place-desc{
+    background-color: black;
+    font-size: 15px;
+}
+.para{
+    font-family: "Dancing Script", cursive;
+}
+
+.img-edit{
+    width: 300px;
+    height: 250px;
+}
