@@ -1,0 +1,14 @@
+.Hdata{
+    padding: 5px 30px;
+}
+table{
+    margin: 100px 400px;
+    background-color: greenyellow;
+    color: red;
+}
+td{
+    padding: 10px 15px;
+}
+th{
+    text-shadow: 1px 1px 0.2px red;
+}
